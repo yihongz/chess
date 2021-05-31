@@ -5,7 +5,7 @@
 
 Chess Game é uma aplicação console construída durante o curso de Java Completo da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em um jogo de tabuleiro onde objetivo do jogo é conquistar o "rei" de seu adversário. O tabuleiro composto por oito colunas e oito linhas, o que resulta em 64 casas possíveis para a mobilidade das peças. As peças são compostas de oito peões, duas torres, dois cavalos, dois bispos, uma rainha e um rei. Todo o projeto foi desenvolvido utilizando conceitos POO (Encapsulamento, Herança, Polimorfismo, etc.).
+A aplicação consiste em um jogo de tabuleiro onde objetivo é conquistar o "rei" de seu adversário. O tabuleiro composto por oito colunas e oito linhas, o que resulta em 64 casas possíveis para a mobilidade das peças. As peças são compostas de oito peões, duas torres, dois cavalos, dois bispos, uma rainha e um rei. Todo o projeto foi desenvolvido utilizando conceitos POO (Encapsulamento, Herança, Polimorfismo, etc.).
 
 ## Layout
 ![Mobile 1](https://iili.io/BP8ApR.png)
