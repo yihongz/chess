@@ -1,37 +1,37 @@
 # Chess Game
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/yihongz/chess/blob/master/LICENSE) 
 
-# Sobre o projeto
+# About the project
 
-Chess Game é uma aplicação console construída durante o curso de Java Completo da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Chess Game is a console application built during [DevSuperior](https://devsuperior.com "DevSuperior's website")'s Full Java course.
 
-A aplicação consiste em um jogo de tabuleiro onde objetivo é conquistar o "rei" de seu adversário. O tabuleiro composto por oito colunas e oito linhas, o que resulta em 64 casas possíveis para a mobilidade das peças. As peças são compostas de oito peões, duas torres, dois cavalos, dois bispos, uma rainha e um rei. Todo o projeto foi desenvolvido utilizando conceitos POO (Encapsulamento, Herança, Polimorfismo, etc.).
+The application consists of a board game where the objective is to conquer the "king" of your opponent. The board consists of eight columns and eight rows, which results in 64 possible spaces for the mobility of the pieces. The pieces are made up of eight pawns, two rooks, two knights, two bishops, a queen and a king. The entire project was developed using OOP concepts (Encapsulation, Inheritance, Polymorphism, etc.).
 
 ## Layout
 ![Mobile 1](https://iili.io/BP8ApR.png)
 
-## Modelo conceitual
+## Conceptual model
 ![Modelo Conceitual](https://iili.io/BP8ddb.png)
 
-# Tecnologias utilizadas
+# Technologies used
 - Java
 
-# Como executar o projeto
+# How to run the project
 
-Pré-requisitos: Java 11
+Prerequisites: Java 11
 
 ```bash
-# clonar repositório
+# clone repository
 git clone https://github.com/yihongz/chess
 
-# entrar na pasta source do projeto 
+# go to the project source folder
 cd src
 
-# executar o projeto
+# execute
 java application/Program
 ```
 
-# Autor
+# Author
 
 Paulo Victor Soares Almeida
 
